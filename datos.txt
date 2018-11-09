@@ -1,5 +1,3 @@
-
-----------------------------------  Datos -----------------------
 Nombre: Melissa Ibarra Fuentes
 Carrera: Lic. Ciencias Computacionales
 Ciudad: Ensenada BC
