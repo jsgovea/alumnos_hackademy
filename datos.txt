@@ -3,3 +3,7 @@ Nombre: Melissa Ibarra Fuentes
 Carrera: Lic. Ciencias Computacionales
 Ciudad: Ensenada BC
 
+
+Nombre: Jair Ramirez Contreras
+Carrera: Ing. en Sistemas Computacionales
+Ciudad: Tijuana
