@@ -3,3 +3,7 @@ Nombre: Melissa Ibarra Fuentes
 Carrera: Lic. Ciencias Computacionales
 Ciudad: Ensenada BC
 
+Nombre: Cesar Ulises Cedillo
+Carrera: Ing. Informática
+Ciudad: Mazatlán, Sinaloa
+
