@@ -3,6 +3,9 @@ Nombre: Jose Francisco Osuna Ocaranza
 Carrera: Ing. Informática
 Ciudad: Los Mochis, sin.
 
+Nombre: Cesar Ulises Cedillo
+Carrera: Ing. Inform�tica
+Ciudad: Mazatl�n, Sinaloa
 
 Nombre: Jair Ramirez Contreras
 Carrera: Ing. en Sistemas Computacionales
