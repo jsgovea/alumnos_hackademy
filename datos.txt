@@ -3,3 +3,7 @@ Nombre: Jose Francisco Osuna Ocaranza
 Carrera: Ing. Informática
 Ciudad: Los Mochis, sin.
 
+
+Nombre: Jair Ramirez Contreras
+Carrera: Ing. en Sistemas Computacionales
+Ciudad: Tijuana
