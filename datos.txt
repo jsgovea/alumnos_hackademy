@@ -15,3 +15,6 @@ Nombre: Jair Ramirez Contreras
 Carrera: Ing. en Sistemas Computacionales
 Ciudad: Tijuana
 
+Nombre: Melissa Ibarra Fuentes
+Carrera: Lic. Ciencias Computacionales
+Ciudad: Ensenada
