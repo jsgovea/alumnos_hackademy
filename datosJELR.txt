@@ -1,0 +1,3 @@
+Nombre:		Eduardo Lopez
+Carrera:	Ingenieria en Sistemas Computacionales
+Ciudad:		Tijuana, B.C.
