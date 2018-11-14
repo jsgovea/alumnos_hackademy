@@ -1,9 +1,12 @@
 
-Nombre: Melissa Ibarra Fuentes
-Carrera: Lic. Ciencias Computacionales
-Ciudad: Ensenada BC
+Nombre: Jose Francisco Osuna Ocaranza
+Carrera: Ing. InformÃ¡tica
+Ciudad: Los Mochis, sin.
 
 Nombre: Cesar Ulises Cedillo
-Carrera: Ing. Informática
-Ciudad: Mazatlán, Sinaloa
+Carrera: Ing. Informï¿½tica
+Ciudad: Mazatlï¿½n, Sinaloa
 
+Nombre: Jair Ramirez Contreras
+Carrera: Ing. en Sistemas Computacionales
+Ciudad: Tijuana
