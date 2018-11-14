@@ -1,8 +1,17 @@
 
-Nombre: Melissa Ibarra Fuentes
-Carrera: Lic. Ciencias Computacionales
-Ciudad: Ensenada BC
+Nombre: Jose Francisco Osuna Ocaranza
+Carrera: Ing. Informática
+Ciudad: Los Mochis, sin.
 
 Nombre: Juan Delgado Valencia
 Carrera: Ing. en Sistemas Computacionales
 Ciudad: Tijuana BC
+
+Nombre: Cesar Ulises Cedillo
+Carrera: Ing. Inform�tica
+Ciudad: Mazatl�n, Sinaloa
+
+Nombre: Jair Ramirez Contreras
+Carrera: Ing. en Sistemas Computacionales
+Ciudad: Tijuana
+
